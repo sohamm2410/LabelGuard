@@ -26,3 +26,6 @@ Thumbs.db
 
 # IDE
 .vscode/
+
+# Dataset - do not upload raw audio
+data/raw/ESC-50/audio/
